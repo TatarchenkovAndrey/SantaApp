@@ -1,0 +1,14 @@
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/bin/Debug/netcoreapp2.1/SantaApi.deps.json
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/bin/Debug/netcoreapp2.1/SantaApi.runtimeconfig.json
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/bin/Debug/netcoreapp2.1/SantaApi.runtimeconfig.dev.json
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/bin/Debug/netcoreapp2.1/SantaApi.dll
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/bin/Debug/netcoreapp2.1/SantaApi.pdb
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/obj/Debug/netcoreapp2.1/SantaApi.csprojAssemblyReference.cache
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/obj/Debug/netcoreapp2.1/SantaApi.csproj.CoreCompileInputs.cache
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/obj/Debug/netcoreapp2.1/SantaApi.RazorAssemblyInfo.cache
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/obj/Debug/netcoreapp2.1/SantaApi.RazorAssemblyInfo.cs
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/obj/Debug/netcoreapp2.1/SantaApi.AssemblyInfoInputs.cache
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/obj/Debug/netcoreapp2.1/SantaApi.AssemblyInfo.cs
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/obj/Debug/netcoreapp2.1/SantaApi.RazorTargetAssemblyInfo.cache
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/obj/Debug/netcoreapp2.1/SantaApi.dll
+/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/obj/Debug/netcoreapp2.1/SantaApi.pdb

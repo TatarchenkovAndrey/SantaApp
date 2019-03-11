@@ -1,0 +1,66 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/SantaApi.csproj",
+    "projectName": "SantaApi",
+    "projectPath": "/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/SantaApi.csproj",
+    "outputPath": "/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "AutoMapper": {
+          "target": "Package",
+          "version": "[8.0.0, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.1, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[4.0.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
