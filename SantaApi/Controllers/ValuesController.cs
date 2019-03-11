@@ -11,7 +11,7 @@ using SantaApi.ViewModels;
 namespace SantaApi.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/")]
     [ProducesResponseType(500)]
     [Produces(MediaTypeNames.Application.Json)]
     public class ValuesController : ControllerBase

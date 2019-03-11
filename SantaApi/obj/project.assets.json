@@ -12109,11 +12109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/SantaApi.csproj",
+      "projectUniqueName": "/Users/andreytatarchenkov/11/SantaApi/SantaApi.csproj",
       "projectName": "SantaApi",
-      "projectPath": "/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/SantaApi.csproj",
+      "projectPath": "/Users/andreytatarchenkov/11/SantaApi/SantaApi.csproj",
       "packagesPath": "/Users/andreytatarchenkov/.nuget/packages/",
-      "outputPath": "/Users/andreytatarchenkov/Projects/SantaApi/SantaApi/obj/",
+      "outputPath": "/Users/andreytatarchenkov/11/SantaApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
